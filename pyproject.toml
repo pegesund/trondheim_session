@@ -1,0 +1,12 @@
+[project]
+name = "trondheim-session"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "colivara-py>=1.6.2",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.8.0",
+    "tiktoken>=0.12.0",
+]
